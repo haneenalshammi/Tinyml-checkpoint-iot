@@ -1,0 +1,14 @@
+#ifndef PROJECT_CONF_H_
+#define PROJECT_CONF_H_
+
+/* CSMA */
+#define CSMA_CONF_MAX_FRAME_RETRIES 8
+#define CSMA_CONF_MIN_BE 4
+#define CSMA_CONF_MAX_BE 7
+#define RF2XX_TX_POWER  PHY_POWER_3dBm
+
+/*  RPL fix */
+#define RPL_CONF_DEFAULT_LIFETIME      700
+#define RPL_CONF_DEFAULT_LIFETIME_UNIT 60
+
+#endif /* PROJECT_CONF_H_ */
