@@ -95,10 +95,10 @@ The source files can be compiled using the provided Makefile.
 
 ## Project Information
 
-University: Qassim University
-Program: Bachelor of Science in Information Technology
-Period: 2025 – 2026
-Project Type: Graduation Project
+- **University:** Qassim University
+- **Program:** Bachelor of Science in Information Technology
+- **Period:** 2025 – 2026
+- **Project Type:** Graduation Project
 
 ## Author
 Haneen Alshami
