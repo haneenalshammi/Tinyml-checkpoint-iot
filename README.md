@@ -57,6 +57,7 @@ TinyML Deployment
 Checkpointing
      ↓
 State Recovery
+```
 
 ## Experimental Environment
 The system was implemented using:
@@ -68,11 +69,12 @@ RPL-based wireless sensor networks
 
 The solution was evaluated under intermittent power conditions to analyze the behavior and performance of IoT nodes.
 
-Results
+## Results
 Prediction Accuracy: 93.3%
 The solution was validated on the FIT IoT-LAB platform.
 Network performance was evaluated using metrics including Packet Delivery Ratio (PDR) and latency.
-Project Files
+
+## Project Files
 IntermittentClient.c — Intermittent IoT client implementation.
 IntermittentWithTinyML.c — Intermittent client with TinyML and checkpoint recovery.
 udp-client.c — UDP client implementation.
@@ -83,18 +85,20 @@ models.h — Model prediction interface.
 project.conf.h — Contiki-NG project configuration.
 Makefile — Project build configuration.
 aggregator_script.txt — Serial data aggregation script.
-How to Run
+
+
+## How to Run
 
 The project requires a Contiki-NG environment and access to the FIT IoT-LAB testbed.
 
 The source files can be compiled using the provided Makefile.
 
-Project Information
+## Project Information
 
 University: Qassim University
 Program: Bachelor of Science in Information Technology
 Period: 2025 – 2026
 Project Type: Graduation Project
 
-Author
+## Author
 Haneen Alshami
